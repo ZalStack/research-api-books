@@ -383,7 +383,7 @@ Contoh body:
 git init
 ```
 
-### Langkah 2: Buat file `.gitignore` (sudah dibuat sebelumnya)
+### Langkah 2: Buat file `.gitignore` 
 
 Pastikan file `.gitignore` sudah ada dengan konten:
 ```
