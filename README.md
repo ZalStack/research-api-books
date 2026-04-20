@@ -455,4 +455,57 @@ git push -u origin main
 }
 ```
 
+## 🔗 Referensi Dokumentasi Resmi
+
+### Firebase & Firestore
+
+| Topik | Link | Deskripsi |
+|-------|------|-----------|
+| **Firebase Admin SDK Setup** | [firebase.google.com/docs/admin/setup](https://firebase.google.com/docs/admin/setup) | Dokumentasi resmi instalasi dan konfigurasi Admin SDK untuk Node.js  |
+| **Cloud Firestore Documentation** | [firebase.google.com/docs/firestore](https://firebase.google.com/docs/firestore) | Panduan lengkap Firestore (CRUD, query, indexing) |
+| **Firestore: Get Started** | [firebase.google.com/docs/firestore/quickstart](https://firebase.google.com/docs/firestore/quickstart) | Tutorial cepat memulai Firestore |
+| **Firestore: Query Data** | [firebase.google.com/docs/firestore/query-data/queries](https://firebase.google.com/docs/firestore/query-data/queries) | Panduan query dan filtering (where, orderBy) |
+| **Firebase Console** | [console.firebase.google.com](https://console.firebase.google.com) | Dashboard manajemen project Firebase |
+
+---
+
+### Express.js & Node.js
+
+| Topik | Link | Deskripsi |
+|-------|------|-----------|
+| **Express.js Documentation** | [expressjs.com](https://expressjs.com) | Dokumentasi resmi Express.js |
+| **Express Error Handling** | [expressjs.com/en/guide/error-handling.html](https://expressjs.com/en/guide/error-handling.html) | Panduan error handling middleware di Express  |
+| **Express Routing** | [expressjs.com/en/guide/routing.html](https://expressjs.com/en/guide/routing.html) | Panduan routing (GET, POST, PUT, DELETE) |
+
+---
+
+### GitHub Repository & Contoh Project
+
+| Link | Deskripsi |
+|------|-----------|
+| **[github.com/miguelpuente/api-rest-firebase](https://github.com/miguelpuente/api-rest-firebase)** | Contoh API REST dengan Firebase + Node.js, struktur layered architecture (controllers, services, routes)  |
+| **[github.com/ovokpus/firebase-serverless-deployment](https://github.com/ovokpus/firebase-serverless-deployment)** | Contoh deploy API dengan Firestore dan Cloud Run  |
+
+---
+
+### Tutorial & Artikel Pendukung
+
+| Topik | Link | Deskripsi |
+|-------|------|-----------|
+| **Firestore CRUD dengan Node.js** | [Qiita - Firestore CRUD](https://qiita.com/nakaizumi_slj/items/e6d5bf42885f232df2f2) | Tutorial lengkap CRUD dan query di Firestore (bahasa Jepang)  |
+| **Filtering in Express.js** | [dev.to article](https://dev.to/) | Implementasi fitur filtering di Express (cari "filtering in expressjs")  |
+| **Sorting in Node.js APIs** | [CoreUI Blog](https://coreui.io/blog) | Panduan implementasi sorting di REST API  |
+
+---
+
+### Tools Testing
+
+| Tool | Link | Deskripsi |
+|------|------|-----------|
+| **Postman** | [postman.com](https://www.postman.com) | Platform testing API (download dan dokumentasi) |
+| **Thunder Client** | [marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) | Extension VS Code untuk testing API |
+| **cURL** | [curl.se/docs](https://curl.se/docs) | Dokumentasi command line tool cURL |
+
+---
+
 ---
